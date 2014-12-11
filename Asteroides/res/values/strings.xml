@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroides</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloAplicacion">Asteroides</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Acercade">Acerca de</string>
+    <string name="Salir">Salir</string>
+    <string name="textoAcercaDe">Este programa es de prueba.</string>
+    <string name="lanzarAcercaDe">lanzarAcercaDe</string>
+    <string name="Configuracion">Configuración</string>
+    <string name="puntuaciones">Puntuaciones</string>
+    <string name="sinpuntuaciones">No hay puntuaciones</string>
+    <string name="tituloServicio">Servicio de Reproducción de Música</string>
+
+</resources>
